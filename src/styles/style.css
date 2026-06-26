@@ -2,9 +2,6 @@
 
 body {
   margin: 0;
-}
-
-.page {
   font-family:
     system-ui,
     -apple-system,
@@ -13,3 +10,4 @@ body {
     Roboto,
     sans-serif;
 }
+
