@@ -1,0 +1,15 @@
+/* add styles here */
+
+body {
+  margin: 0;
+}
+
+.page {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+}
